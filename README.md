@@ -1,2 +1,1 @@
-My first readme
-Would not be my last
+This is my first repository as a full-stack engineer
